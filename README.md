@@ -1,8 +1,5 @@
 # CalculadoraIMC
-Calculadora IMC!
-*CSS
-*  JS 
-*HTML 
+Calculadora IMC! CSS | JS | HTML
 
 
 
